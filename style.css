@@ -1,0 +1,228 @@
+/* colour code #626262*/
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+body,h1,h2,h3,h4,h5,h6,p,span,input,button{
+font-family: 'Playfair Display', serif;
+}
+/*headder*/
+.header{
+    width: 100%;
+    display: flow-root;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.nav-bar{
+    width:100% ;
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 26px;
+}
+.logo{
+    width: 20%;
+    margin: 0%;
+    float: left;
+    align-items: center;
+}
+.logo:hover{
+    width: 20%;
+    margin: 0%;
+    float: left;
+    align-items: center;
+    cursor: pointer;
+}
+.menu{
+    width: 80%;
+    float: right;
+    text-align: right;
+}
+.menu ul li{
+    list-style: none;
+    display: inline;
+    margin: 40px;
+    line-height: 100%;
+    color: #626262;
+    transition: 2s;
+}
+.menu ul li:hover{
+    list-style: none;
+    display: inline;
+    margin: 40px;
+    line-height: 100%;
+    color: #000000;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 2s;
+}
+.banner{
+   width: 100%;
+}
+.banner-1{
+    width: 100%;
+}
+.PC{
+    padding:69px;
+}
+.category{
+    font-family: 'Playfair Display', serif;
+    color: #b4ad9e;
+    font-size: 14px;
+}
+.title{
+    font-family: 'Playfair Display', serif;
+    margin: 10px 0;
+    color: #626262;
+    font-size: 24px;
+}
+    
+.paragraph{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+}
+.comment{
+    font-family: 'Playfair Display', serif;
+    margin: 23px 0;
+    color: #b4ad9e;
+    font-size: 14px;
+}
+.posts{
+    width: 100%;
+    display: flow-root;
+}
+.gallery{
+    padding-top:69px;
+    width: 100%;
+}
+.P-1{
+
+}
+.post-L{
+    width: 35%;
+    float: right;
+    padding-right:5%;
+}
+.post-R{
+    width: 35%;
+    padding-left:5%;
+}
+.post-pic{
+    width: 100%;
+}
+.SUB{
+    width: 100%;
+    display: flow-root;
+    background: #f0f0f0;
+    text-align: center;
+    
+}
+.S-T{
+    margin: 45px;
+    
+}
+.Btn-icon{
+    position: relative;
+    left:-30px;
+    background: none;
+    padding: 5px;
+    border: 1px solid white;
+    color: black;
+    transition: 0.5s;
+}
+.Btn-icon:hover{
+    border: 1px solid black;
+    border-radius: 50px;
+    color: rgb(51, 51, 51);
+}
+
+.S-B{
+    width: 376px;
+    height: 44px;
+    background: transparent;
+    border: none;
+    font-size: 15px;
+    border-bottom:1px solid black;
+}
+
+.S-B:focus{
+    outline: none;
+}
+.form-1{
+    width:500px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 94px;
+}
+
+.BUTTN{
+    width: 100%;
+}
+.L-M{
+    width: 100%;
+    text-align: center;
+}
+.L-M button{
+    background: transparent;
+    padding: 15px 25px;
+    font-size: 15px;
+    border: none;
+    border: 1px solid black !important;
+    margin: 107px 300px;
+}
+
+.L-M button:hover{
+    background: black;
+    padding: 15px 25px;
+    font-size: 15px;
+    border: none;
+    border: 1px solid black !important;
+    margin: 107px 300px;
+    color: white;
+    
+}
+.fotter{
+    width: 100%;
+    display: flow-root;
+    background: #f0f0f0;
+    padding: 30px;
+    position: relative;
+}
+.sec-1 a{
+    color: #626262;
+    padding: 30px 15px;
+}
+.sec-1 a:hover{
+    color: black;
+}
+
+.sec-2{
+    float: right;  
+    position: absolute;
+    left: 1300px;
+    bottom: 27px;
+    color: #626262;
+    
+}
+.sec-2 ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 5px;
+}
+.sec-2 ul{
+    display: inline;
+    padding-left: 10px;
+}
+
+
+
+
+
